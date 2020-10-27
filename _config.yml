@@ -11,7 +11,9 @@ favicon_dark: ./assets/img/avatar.png
 
 # Personal Info
 position: Ph.D. Student
-affiliation: Tsinghua University
+affiliation: 
+  Institute of Public Safety Research <br>
+  Tsinghua University
 email: mengyy17 (at) mails.tsinghua.edu.cn
 # keywords: academic
 
