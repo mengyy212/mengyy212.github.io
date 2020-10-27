@@ -3,6 +3,7 @@ remote_theme: mengyy212/minimal-light
 
 # Site settings
 title: Meng Yangyang
+title_zh: 孟洋洋
 # description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/avatar.png
@@ -12,13 +13,16 @@ favicon_dark: ./assets/img/avatar.png
 # Personal Info
 position: Ph.D. Student
 affiliation: Tsinghua University
+affiliation_zh: 清华大学
 department: Institute of Public Safety Research <br>
+department_zh: 工程物理系 公共安全研究所
 email: mengyy17 (at) mails.tsinghua.edu.cn
 # keywords: academic
 
 
 # Social Links
 google_scholar: https://scholar.google.com/citations?user=UiLNLpkAAAAJ
+orcid: https://orcid.org/0000-0003-4386-1858
 # github_link: https://github.com/yaoyao-liu/minimal-light
 # linkedin: https://www.linkedin.com/
 # canonical: https://minimal-light.yyliu.net/

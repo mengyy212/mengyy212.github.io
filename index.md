@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+[Chinese Version](index_zh)
+
 ## Research Interests
 
 - Spatio-temporal Analytics and Crowd Dynamic in Urban Mobility
