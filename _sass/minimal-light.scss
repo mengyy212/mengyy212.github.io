@@ -222,7 +222,7 @@ img {
 }
 
 header {
-  width:220px;
+  width:260px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -298,7 +298,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:630px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -316,7 +316,7 @@ hr {
 }
 
 footer {
-  width:220px;
+  width:260px;
   float:left;
   position:fixed;
   bottom:30px;
@@ -383,10 +383,6 @@ footer {
 
   header {
     padding:0;
-  }
-
-  header ul, header p.view {
-    
   }
 
   pre, code {
