@@ -34,29 +34,29 @@ papertitle {
     font-size: 100%;
   }
 
-// @media (prefers-color-scheme: dark) {
-//     body {
-//         background-color: #20212b;
-//         color: #dadbdf;
-//     }
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #20212b;
+        color: #dadbdf;
+    }
 
-//     autocolor{
-//       color:#dadbdf;
-//     }
+    autocolor{
+      color:#dadbdf;
+    }
 
-//     lightonly {
-//       visibility: hidden;
-//     }
+    lightonly {
+      visibility: hidden;
+    }
 
-//     darkonly {
-//       visibility: visible;
-//     }
+    darkonly {
+      visibility: visible;
+    }
 
-//     papertitle {
-//     color:#eeeff0;
-//     }
+    papertitle {
+    color:#eeeff0;
+    }
 
-// }
+}
 
 
   .image {
@@ -113,15 +113,15 @@ h2 {
   font-size: 157%;
 }
 
-// @media (prefers-color-scheme: dark) {
-//   h1, h3, h4, h5, h6 {
-//     color:rgb(62, 183, 240);
-//   }
+@media (prefers-color-scheme: dark) {
+  h1, h3, h4, h5, h6 {
+    color:rgb(62, 183, 240);
+  }
 
-//   h2 {
-//     color:rgb(62, 183, 240);
-//   }
-// }
+  h2 {
+    color:rgb(62, 183, 240);
+  }
+}
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -144,11 +144,11 @@ a:hover {
   color:#069;
 }
 
-// @media (prefers-color-scheme: dark) {
-//   a {
-//     color:rgb(62, 183, 240);
-//   }
-// }
+@media (prefers-color-scheme: dark) {
+  a {
+    color:rgb(62, 183, 240);
+  }
+}
 
 a small {
   font-size:11px;
@@ -207,15 +207,15 @@ th {
   color:#444;
 }
 
-// @media (prefers-color-scheme: dark) {
-//   th {
-//     color:rgb(62, 183, 240);
-//   }
+@media (prefers-color-scheme: dark) {
+  th {
+    color:rgb(62, 183, 240);
+  }
 
-//   dt {
-//     color:rgb(62, 183, 240);
-//   }
-// }
+  dt {
+    color:rgb(62, 183, 240);
+  }
+}
 
 img {
   max-width:100%;
@@ -280,11 +280,11 @@ strong {
   font-weight:500;
 }
 
-// @media (prefers-color-scheme: dark) {
-//   strong {
-//     color:#eeeff0;
-//   }
-// }
+@media (prefers-color-scheme: dark) {
+  strong {
+    color:#eeeff0;
+  }
+}
 
 header ul li + li + li {
   border-right:none;
