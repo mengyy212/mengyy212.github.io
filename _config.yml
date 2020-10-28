@@ -12,9 +12,10 @@ favicon_dark: ./assets/img/avatar.png
 
 # Personal Info
 position: Ph.D. Student
+position_zh: 博士研究生
 affiliation: Tsinghua University
 affiliation_zh: 清华大学
-department: Institute of Public Safety Research <br>
+department: Institute of Public Safety Research <br> Department of Engineering Physics
 department_zh: 工程物理系 公共安全研究所
 email: mengyy17 (at) mails.tsinghua.edu.cn
 # keywords: academic

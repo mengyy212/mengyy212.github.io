@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-[Chinese Version](index_zh)
+[中文版](index_zh)
 
 ## Research Interests
 
@@ -12,9 +12,36 @@ layout: homepage
 - Safety and Resilience Evaluation in Transport Networks
 - Traffic Evacuation Simulation
 
-## News
+<!-- ## News
 
-- **[Oct 2020]** TBA.
+- **[Oct 2020]** TBA. -->
+
+## Research Projects Participated
+
+- **Research on improving Security Resilience Technology in Internet + Urban Transport Network**
+  <br>
+  The National Key R&D Program of China (Grant No.2018YFC0809905), 2018-2021
+  <br>
+  (Tsinghua University - DiDi Chuxing - China Academy of Transportation Sciences)
+
+- **Major Risk Control and Emergency Rescue Technology on Network Operation in Urban Rail Transit**
+  <br>
+  The National Key R&D Program of China (Grant No.2016YFC0802506), 2016-2019
+  <br>
+  (Tsinghua University - Shenzhen & Guangzhou Metro, Beijing Subway)
+
+- **Research on Risk Control and Comprehensive Supervision Ability Promotion Strategy of Work Safety & Resilience in Xiong’an New Area**
+  <br>
+  The National Science Foundation of China (Grant No.71741025), 2017-2018
+  <br>
+  (Tsinghua University - Xiong’an)
+
+- **Metro Safety Science and Engineering**
+  <br>
+  The National Science Fund for Distinguished Young Scholars (Grant No.51425404), 2015.01-2019.12
+  <br>
+  (Tsinghua University - China Academy of Safety Science and Engineering)
+
 
 ## Selected Publications
 
@@ -70,8 +97,35 @@ layout: homepage
   <br>
   Proceedings of the 4th ACM SIGSPATIAL International Workshop-EM-GIS'18, Seattle, WA, USA, Nov 2018.
 
+## Talks
 
+- **Temporal-spatial Analysis & Visualization of Passenger Flow after Opening New Railway Lines in Shenzhen Metro**
+  <br>
+  The 26th ACM SIGSPATIAL International Conference on Advances in GIS & The 4th ACM SIGSPATIAL International Workshop on Safety and Resilience
+  <br>
+  Seattle, Washington, USA, Nov 2018.
 
-## Services
+- **Intervention Analysis and Visualization of the Impacts of Opening a New Line on Metro Passenger Flow**
+  <br>
+  The Tokyo-Tsinghua University Joint Symposium & Tohoku-Tsinghua Joint Workshops
+  <br>
+  Tokyo & Sendai, Japan, Jul 2018.
 
-- Journal Reviewers: Some-Journal
+## Personal Skills
+
+- Python
+- PostgreSQL
+- QGIS
+- SPSS
+- Origin
+- Building EXODUS
+
+## Awards
+
+- Second-class Comprehensive School Scholarship, _Tsinghua University_, 2020
+- Outstanding Graduate, _Beijing Municipal Education Commission_, 2017
+- First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2016
+- First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2015
+- Nation Scholarship, _The Ministry of Education of China_, 2013
+- National Encouragement Scholarship, _The Ministry of Education of China_, 2012
+- National Encouragement Scholarship, _The Ministry of Education of China_, 2011
