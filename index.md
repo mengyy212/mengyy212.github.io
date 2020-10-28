@@ -8,7 +8,7 @@ layout: homepage
 
 - Spatio-temporal Analytics and Crowd Dynamic in Urban Mobility
 - Complex Networks Modeling in Urban Traffic
-- Safety Emergency Management in Public Transport
+- Safety Emergency Management in Public Transportation
 - Safety and Resilience Evaluation in Transport Networks
 - Traffic Evacuation Simulation
 
