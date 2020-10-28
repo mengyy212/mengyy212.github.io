@@ -5,7 +5,7 @@ remote_theme: mengyy212/minimal-light
 title: Meng Yangyang
 title_zh: 孟洋洋
 # description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/avatar.png
 favicon_dark: ./assets/img/avatar.png
 
