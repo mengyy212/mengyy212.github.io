@@ -1,9 +1,17 @@
 language: ruby
-cache: bundler
-rvm: 2.7.1
 
-install: script/bootstrap
-script: script/cibuild
+os:
+  - linux
+dist:
+  - focal
+
+rvm: 2.7.1
+script:
+- gem update --system
+- gem install bundler
+- bundler update --bundler
+- gem install jekyll bundler
+- JEKYLL_ENV=production bundle exec jekyll build --verbose
 
 deploy:
   edge: true

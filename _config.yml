@@ -9,6 +9,8 @@ avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/avatar.png
 favicon_dark: ./assets/img/avatar.png
 
+repository: mengyy212/mengyy212.github.io
+
 
 # Personal Info
 position: Ph.D. Student
@@ -30,4 +32,4 @@ orcid: https://orcid.org/0000-0003-4386-1858
 
 
 # Analytics
-# google_analytics: UA-111540567-4
+# google_analytics: 
