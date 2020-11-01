@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-[中文版](index_zh)
+[中文版](zh)
 
 ## Research Interests
 
