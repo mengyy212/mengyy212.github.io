@@ -47,7 +47,7 @@ layout: homepage
   The National Science Fund for Distinguished Young Scholars (Grant No.51425404), 2015.01-2019.12
   <br>
   (Tsinghua University - China Academy of Safety Science and Engineering)
-
+  <br>
 
 ## Selected Publications
 
@@ -58,12 +58,20 @@ layout: homepage
   **Y.Y. Meng**, X.L. Tian, Z.W Li, W. Zhou, Z.J Zhou, M.H. Zhong
   <br>
   Physica A: Statistical Mechanics and its Applications, 2020.
+  <br>
+  <img src="/assets/img/exploring-node-importance/1.jpg" alt="Exploring-1" height=120px>
+  <img src="/assets/img/exploring-node-importance/2.jpg" alt="Exploring-2" height=120px>
+  <img src="/assets/img/exploring-node-importance/3.jpg" alt="Exploring-3" height=120px>
   
 - **Comparison analysis on complex topological network models of urban rail transit: A case study of Shenzhen Metro in China** [[DOI](https://doi.org/10.1016/j.physa.2020.125031)]
   <br>
   **Y.Y. Meng**, X.L. Tian, Z.W Li, W. Zhou, Z.J Zhou, M.H. Zhong
   <br>
   Physica A: Statistical Mechanics and its Applications, 2020.
+  <br>
+  <img src="/assets/img/comparison-analysis/1.jpg" alt="Comparison-1" height=120px>
+  <img src="/assets/img/comparison-analysis/2.jpg" alt="Comparison-2" height=120px>
+  <img src="/assets/img/comparison-analysis/3.jpg" alt="Comparison-3" height=120px>
 
 - **An Urban Road-Traffic Commuting Dynamics Study Based on Hotspot Clustering and a New Proposed Urban Commuting Electrostatics Model** [[DOI](https://doi.org/10.3390/ijgi8040190)]
   <br>
@@ -76,6 +84,7 @@ layout: homepage
   X.F. Zhao, C.Y. Hu, Z. Liu, **Y.Y. Meng**
   <br>
   ISPRS International Journal of Geo-Infornmation, 2019, 8(6), 281.
+  
 
 - **Reference of Work Safety Resilient Management to the Development of Xiongan New Area** (in Chinese) [[Link](http://gb.oversea.cnki.net/KCMS/detail/detail.aspx?filename=LDBK201808002&dbcode=CJFD&dbname=CJFDTEMP)]
   <br>
@@ -90,12 +99,20 @@ layout: homepage
   **Y.Y. Meng**, X.L. Tian, C. Liu, Z.W Li, W. Zhou, Z.J Zhou, M.H. Zhong
   <br>
   ISCRAM 2020 Conference Proceedings-17th International Conference on Information Systems for Crisis Response and Management, Blacksburg, VA, USA, May 2020 (Online)
+  <br>
+  <img src="/assets/img/emergency-capability/1.jpg" alt="Emergency-1" height=120px>
+  <img src="/assets/img/emergency-capability/2.jpg" alt="Emergency-2" height=120px>
+  <img src="/assets/img/emergency-capability/3.jpg" alt="Emergency-3" height=120px>
 
 - **Temporal-spatial Analysis & Visualization of Passenger Flow after Opening New Railway Lines in Shenzhen Metro** [[DOI](https://doi.org/10.1145/3284103.3284107)]
   <br>
   **Y.Y. Meng**, X.L. Tian, Z.W Li, W. Zhou, Z.J Zhou, X.F. Zhao, M.H. Zhong
   <br>
   Proceedings of the 4th ACM SIGSPATIAL International Workshop-EM-GIS'18, Seattle, WA, USA, Nov 2018.
+  <br>
+  <img src="/assets/img/temporal-spatial/1.jpg" alt="TemporalSpatial-1" height=120px>
+  <img src="/assets/img/temporal-spatial/2.jpg" alt="TemporalSpatial-2" height=120px>
+  <img src="/assets/img/temporal-spatial/3.jpg" alt="TemporalSpatial-3" height=120px>
 
 - **Spatial Data Mining and O-D Hotspots Discovery in Cities Based on an O-D Hotspots Clustering Model Using Vehicles' GPS data – A Case Study in the Morning Rush Hours in Beijing, China** [[DOI](https://doi.org/10.1145/3284103.3284108)]
   <br>
