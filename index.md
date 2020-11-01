@@ -103,6 +103,7 @@ layout: homepage
   <img src="/assets/img/emergency-capability/1.jpg" alt="Emergency-1" height=120px>
   <img src="/assets/img/emergency-capability/2.jpg" alt="Emergency-2" height=120px>
   <img src="/assets/img/emergency-capability/3.jpg" alt="Emergency-3" height=120px>
+  <img src="/assets/img/emergency-capability/4.jpg" alt="Emergency-3" height=120px>
 
 - **Temporal-spatial Analysis & Visualization of Passenger Flow after Opening New Railway Lines in Shenzhen Metro** [[DOI](https://doi.org/10.1145/3284103.3284107)]
   <br>
