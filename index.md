@@ -8,9 +8,9 @@ layout: homepage
 
 - Spatio-temporal Analytics and Crowd Dynamic in Urban Mobility
 - Complex Networks Modeling in Urban Traffic
-- Safety Emergency Management in Public Transportation
-- Safety and Resilience Evaluation in Transport Networks
-- Traffic Evacuation Simulation
+- Safety and Resilience Evaluation in Public Transportation
+- Accidents Analysis and Risk Assessment
+- Travel Behavior and Traffic Evacuation
 
 <!-- ## News
 
@@ -24,6 +24,12 @@ layout: homepage
   <br>
   (Tsinghua University - DiDi Chuxing - China Academy of Transportation Sciences)
 
+- **Study on Resilience Prediction and Optimization of Urban Interdependent Infrastructure Combining AI Algorithm under the Background of Big Data**
+  <br>
+  The National Science Foundation of China (Grant No.7177030217), 2018-2021
+  <br>
+  (Tsinghua University - Beijing Urban Systems Engineering Research Center)
+  
 - **Major Risk Control and Emergency Rescue Technology on Network Operation in Urban Rail Transit**
   <br>
   The National Key R&D Program of China (Grant No.2016YFC0802506), 2016-2019
@@ -127,5 +133,3 @@ layout: homepage
 - First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2016
 - First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2015
 - Nation Scholarship, _The Ministry of Education of China_, 2013
-- National Encouragement Scholarship, _The Ministry of Education of China_, 2012
-- National Encouragement Scholarship, _The Ministry of Education of China_, 2011
