@@ -103,7 +103,7 @@ layout: homepage
   <br>
   Proceedings of the 4th ACM SIGSPATIAL International Workshop-EM-GIS'18, Seattle, WA, USA, Nov 2018.
 
-## Talks
+## Oversea Presentations
 
 - **Temporal-spatial Analysis & Visualization of Passenger Flow after Opening New Railway Lines in Shenzhen Metro**
   <br>
@@ -126,7 +126,7 @@ layout: homepage
 - Origin
 - Building EXODUS
 
-## Awards
+## Main Awards
 
 - Second-class Comprehensive School Scholarship, _Tsinghua University_, 2020
 - Outstanding Graduate, _Beijing Municipal Education Commission_, 2017
