@@ -7,6 +7,7 @@ layout: homepage
 ## Research Interests
 
 - Spatio-temporal Analytics and Crowd Dynamic in Urban Mobility
+- Safety and Resilience Evaluation in Public Transportation
 - Safety and Emergency Management, Engineering Safety Management
 - Complex Networks & Social Networks Modeling
 - Accidents Analysis and Risk Assessment
