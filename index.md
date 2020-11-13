@@ -9,7 +9,7 @@ layout: homepage
 - Spatio-temporal Analytics and Crowd Dynamic in Urban Mobility
 - Safety and Resilience Evaluation in Public Transportation
 - Safety and Emergency Management, Engineering Safety Management
-- Complex Networks & Social Networks Modeling
+- Complex Network & Social Network Modeling
 - Accidents Analysis and Risk Assessment
 - Travel Behavior and Mass Evacuation
 - Resilient Cities
