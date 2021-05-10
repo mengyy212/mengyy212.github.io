@@ -6,12 +6,12 @@ layout: homepage
 
 ## Research Interests
 
-- Spatio-temporal Analytics and Crowd Dynamic in Urban Mobility
-- Safety and Resilience Evaluation, Resilient Cities
-- Emergency Management, Engineering Safety Management
-- Complex Network & Social Network Modeling
-- Construction Safety Management
--	Modular Construction
+- Safety Science and Engineering, System Engineering
+- Emergency Management, Risk Assessment
+- Resilient Cities, Resilience Evaluation
+- Big Data Analytics and Spatio-temporal Visualization
+- Complex Network & Social Network Analysis
+
 
 
 <!-- ## News
@@ -74,6 +74,12 @@ layout: homepage
   <img src="/assets/img/comparison-analysis/1.jpg" alt="Comparison-1" height=120px>
   <img src="/assets/img/comparison-analysis/2.jpg" alt="Comparison-2" height=120px>
   <img src="/assets/img/comparison-analysis/3.jpg" alt="Comparison-3" height=120px>
+
+- **Analyzing spatio-temporal impacts of extreme rainfall events on metro ridership characteristics** [[DOI](https://doi.org/10.1016/j.physa.2021.126053)]
+  <br>
+  L.F. Zhou, Z.H. Li, **Y.Y. Meng**, Z.J Zhou, M.H. Zhong
+  <br>
+  Physica A: Statistical Mechanics and its Applications, 2021.
 
 - **An Urban Road-Traffic Commuting Dynamics Study Based on Hotspot Clustering and a New Proposed Urban Commuting Electrostatics Model** [[DOI](https://doi.org/10.3390/ijgi8040190)]
   <br>
@@ -142,9 +148,11 @@ layout: homepage
 - Python
 - PostgreSQL
 - QGIS
+- AcrGIS
 - SPSS
 - Origin
-- Building EXODUS
+- UCINET
+- LaTeX
 
 ## Main Awards
 
@@ -152,4 +160,3 @@ layout: homepage
 - Outstanding Graduate, _Beijing Municipal Education Commission_, 2017
 - First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2016
 - First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2015
-- Nation Scholarship, _The Ministry of Education of China_, 2013
