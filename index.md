@@ -11,6 +11,7 @@ layout: homepage
 - Resilient Cities, Resilience Evaluation
 - Big Data Analytics and Spatio-temporal Visualization
 - Complex Network & Social Network Analysis
+- Health, Safety and Environment (HSE) in Engineering
 
 
 
