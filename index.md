@@ -149,7 +149,7 @@ layout: homepage
 - Python
 - PostgreSQL
 - QGIS
-- AcrGIS
+- ArcGIS
 - SPSS
 - Origin
 - UCINET
