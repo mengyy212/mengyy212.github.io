@@ -6,7 +6,8 @@ layout: homepage
 
 ## Research Interests
 
-- Mass Mobility in Urban Transportation
+- Public Transportation, Crowd Dynamic in Urban Mobility
+- Geographic Information Science (GIS) for Transportation
 - Big Data Analytics and Spatiotemporal Visualization
 - Complex Network Modeling, Social Network Analysis
 - Safety Science and Engineering, System Engineering
