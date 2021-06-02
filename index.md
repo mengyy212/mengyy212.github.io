@@ -6,13 +6,11 @@ layout: homepage
 
 ## Research Interests
 
+- Mass Mobility in Urban Transportation
+- Big Data Analytics and Spatiotemporal Visualization
+- Complex Network Modeling, Social Network Analysis
 - Safety Science and Engineering, System Engineering
-- Emergency Management, Risk Assessment
-- Resilient Cities, Resilience Evaluation
-- Big Data Analytics and Spatio-temporal Visualization
-- Complex Network & Social Network Analysis
-- Health, Safety and Environment (HSE) in Engineering
-
+- Resilient Cities, Smart Cities
 
 
 <!-- ## News
@@ -158,7 +156,6 @@ layout: homepage
 
 ## Main Awards
 
-- Second-class Comprehensive School Scholarship, _Tsinghua University_, 2020
+- Excellent Comprehensive Scholarship, _Tsinghua University_, 2020
 - Outstanding Graduate, _Beijing Municipal Education Commission_, 2017
 - First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2016
-- First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2015
