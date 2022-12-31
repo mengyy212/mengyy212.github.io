@@ -6,47 +6,61 @@ layout: homepage
 
 ## Research Interests
 
-- Public Transportation, Crowd Dynamic in Urban Mobility
-- Geographic Information Science (GIS) for Transportation
+- Urban Rail Transit Network Modeling and Analysis
+- Complex Network Modeling and Analysis
 - Big Data Analytics and Spatiotemporal Visualization
-- Complex Network Modeling, Social Network Analysis
-- Safety Science and Engineering, System Engineering
-- Resilient Cities, Smart Cities
+- Resilience and Vulnerability Assessment
+- Public Transportation Planning and Management
+- Public Safety and Emergency Management
 
 
 <!-- ## News
 
-- **[Oct 2020]** TBA. -->
+- **[Dec 2022]** TBA. -->
+
+## Funded Research Projects (PI)
+
+- **Cascade Failure Mechanism and Resilience Assessment Method of Metro Network System under Extreme Rainstorm Disaster**
+  <br>
+  China Postdoctoral Science Foundation (No.2022M721449), 2022-2023
+
+- **Risk Warning technology of Heavy Passenger Flow in Metro Transfer Stations with Multi-source Heterogeneous Spatio-temporal Data**
+  <br>
+  The Innovation and Entrepreneurship Science and Technology Project of China Coal Technology and Engineering Group (No.2022-2-QN004), 2022-2024
+
+- **Resilience Assessment Technology and Application of Metro Networked-Operation under Extreme Rainstorm Scenarios**
+  <br>
+  The Innovation and Entrepreneurship Science and Technology Project of China Coal Technology and Engineering Group (No.2021-JSYF-006), 2021-2023
 
 ## Research Projects Participated
 
-- **Research on improving Security Resilience Technology in Internet + Urban Transport Network**
+- **Safety and Resilience Improvement in Internet + Urban Transportation Network**
   <br>
   The National Key R&D Program of China (Grant No.2018YFC0809905), 2018-2021
   <br>
   (Tsinghua University - DiDi Chuxing - China Academy of Transportation Sciences)
 
-- **Study on Resilience Prediction and Optimization of Urban Interdependent Infrastructure Combining AI Algorithm under the Background of Big Data**
+- **Resilience Prediction and Optimization of Urban Infrastructures Based on AI Algorithm and Big Data**
   <br>
   The National Science Foundation of China (Grant No.7177030217), 2018-2021
   <br>
   (Tsinghua University - Beijing Urban Systems Engineering Research Center)
   
-- **Major Risk Control and Emergency Rescue Technology on Network Operation in Urban Rail Transit**
+- **Major Risk Control and Emergency Rescue Technology in Networked-Operation Urban Rail Transit**
   <br>
   The National Key R&D Program of China (Grant No.2016YFC0802506), 2016-2019
   <br>
   (Tsinghua University - Shenzhen & Guangzhou Metro, Beijing Subway)
 
-- **Research on Risk Control and Comprehensive Supervision Ability Promotion Strategy of Work Safety & Resilience in Xiong’an New Area**
+- **Risk Control and Comprehensive Supervision Ability Promotion Strategy of Work Safety and Resilience in Xiong’an New Area**
   <br>
   The National Science Foundation of China (Grant No.71741025), 2017-2018
   <br>
-  (Tsinghua University - Xiong’an)
+  (Tsinghua University - Xiong’an New Area)
 
 - **Metro Safety Science and Engineering**
   <br>
-  The National Science Fund for Distinguished Young Scholars (Grant No.51425404), 2015.01-2019.12
+  The National Science Fund for Distinguished Young Scholars (Grant No.51425404), 2015-2019
   <br>
   (Tsinghua University - China Academy of Safety Science and Engineering)
   <br>
@@ -54,6 +68,23 @@ layout: homepage
 ## Selected Publications
 
 ### Journal Papers
+- **Data-driven complexity analysis of weighted Shenzhen Metro network based on urban massive mobility in the rush hours** [[DOI](https://doi.org/10.1016/j.physa.2022.128403)]
+  <br>
+  **Y.Y. Meng**, X.F.Zhao, J.Z. Liu, Q.J. Qi, W. Zhou
+  <br>
+  Physica A: Statistical Mechanics and its Applications, 2023.
+  
+- **Dynamic Evolution Analysis of Complex Topology and Node Importance in Shenzhen Metro Network from 2004 to 2021** [[DOI](https://doi.org/10.3390/su14127234)]
+  <br>
+  **Y.Y. Meng**, Q.J. Qi, J.Z. Liu, W. Zhou
+  <br>
+  Sustainability, 2022.
+  
+  - **Resilience assessment of urban metro complex network: A case study of Zhengzhou Metro** [[DOI](https://doi.org/10.3390/su141811555)]
+  <br>
+  Q.J. Qi, **Y.Y. Meng**, X.F.Zhao, J.Z. Liu
+  <br>
+  Sustainability, 2022.
 
 - **Exploring node importance evolution of weighted complex networks in urban rail transit** [[DOI](https://doi.org/10.1016/j.physa.2020.124925)]
   <br>
@@ -152,11 +183,12 @@ layout: homepage
 - SPSS
 - Origin
 - UCINET
+- Gephi
 - LaTeX
 - ……
 
 ## Main Awards
 
+- Outstanding Graduate Thesis, _Department of Engineering Physics, _Tsinghua University_, 2021
 - Excellent Comprehensive Scholarship, _Tsinghua University_, 2020
 - Outstanding Graduate, _Beijing Municipal Education Commission_, 2017
-- First Class Academic Scholarship, _China University of Mining and Technology (Beijing)_, 2016
