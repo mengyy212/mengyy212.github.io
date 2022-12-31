@@ -20,6 +20,6 @@ layout: homepage_zh
 
 ## 主要奖项
 
-_Page under construction._
+_Page under construction..._
 
 页面建设中...
