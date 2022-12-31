@@ -189,6 +189,6 @@ layout: homepage
 
 ## Main Awards
 
-- Outstanding Graduate Thesis, _Department of Engineering Physics, _Tsinghua University_, 2021
+- Outstanding Graduate Thesis, Department of Engineering Physics, _Tsinghua University_, 2021
 - Excellent Comprehensive Scholarship, _Tsinghua University_, 2020
 - Outstanding Graduate, _Beijing Municipal Education Commission_, 2017
