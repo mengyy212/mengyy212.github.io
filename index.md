@@ -80,7 +80,7 @@ layout: homepage
   <br>
   Sustainability, 2022.
   
-  - **Resilience assessment of urban metro complex network: A case study of Zhengzhou Metro** [[DOI](https://doi.org/10.3390/su141811555)]
+- **Resilience assessment of urban metro complex network: A case study of Zhengzhou Metro** [[DOI](https://doi.org/10.3390/su141811555)]
   <br>
   Q.J. Qi, **Y.Y. Meng**, X.F.Zhao, J.Z. Liu
   <br>
