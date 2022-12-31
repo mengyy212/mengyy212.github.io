@@ -73,18 +73,30 @@ layout: homepage
   **Y.Y. Meng**, X.F.Zhao, J.Z. Liu, Q.J. Qi, W. Zhou
   <br>
   Physica A: Statistical Mechanics and its Applications, 2023.
+  <br>
+  <img src="/assets/img/rush-hours/1.jpg" alt="Exploring-1" height=120px>
+  <img src="/assets/img/rush-hours/2.jpg" alt="Exploring-2" height=120px>
+  <img src="/assets/img/rush-hours/3.jpg" alt="Exploring-3" height=120px>
   
-- **Dynamic Evolution Analysis of Complex Topology and Node Importance in Shenzhen Metro Network from 2004 to 2021** [[DOI](https://doi.org/10.3390/su14127234)]
+- **Dynamic evolution analysis of complex topology and node importance in Shenzhen Metro network from 2004 to 2021** [[DOI](https://doi.org/10.3390/su14127234)]
   <br>
   **Y.Y. Meng**, Q.J. Qi, J.Z. Liu, W. Zhou
   <br>
   Sustainability, 2022.
+  <br>
+  <img src="/assets/img/dynamic-evolution/1.jpg" alt="Exploring-1" height=120px>
+  <img src="/assets/img/dynamic-evolution/2.jpg" alt="Exploring-2" height=120px>
+  <img src="/assets/img/dynamic-evolution/3.jpg" alt="Exploring-3" height=120px>
   
 - **Resilience assessment of urban metro complex network: A case study of Zhengzhou Metro** [[DOI](https://doi.org/10.3390/su141811555)]
   <br>
   Q.J. Qi, **Y.Y. Meng**, X.F.Zhao, J.Z. Liu
   <br>
   Sustainability, 2022.
+  <br>
+  <img src="/assets/img/resilience-assessment/1.jpg" alt="Exploring-1" height=120px>
+  <img src="/assets/img/resilience-assessment/2.jpg" alt="Exploring-2" height=120px>
+  <img src="/assets/img/resilience-assessment/3.jpg" alt="Exploring-3" height=120px>
   
 - **Analyzing spatio-temporal impacts of extreme rainfall events on metro ridership characteristics** [[DOI](https://doi.org/10.1016/j.physa.2021.126053)]
   <br>
