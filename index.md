@@ -110,9 +110,9 @@ layout: homepage
   <br>
   Physica A: Statistical Mechanics and its Applications, 2020.
   <br>
-  <img src="/assets/img/exploring-node-importance/1.jpg" alt="Exploring-1" height=120px>
-  <img src="/assets/img/exploring-node-importance/2.jpg" alt="Exploring-2" height=120px>
-  <img src="/assets/img/exploring-node-importance/3.jpg" alt="Exploring-3" height=120px>
+  <img src="/assets/img/exploring-node-importance/1.png" alt="Exploring-1" height=120px>
+  <img src="/assets/img/exploring-node-importance/2.png" alt="Exploring-2" height=120px>
+  <img src="/assets/img/exploring-node-importance/3.png" alt="Exploring-3" height=120px>
   
 - **Comparison analysis on complex topological network models of urban rail transit: A case study of Shenzhen Metro in China** [[DOI](https://doi.org/10.1016/j.physa.2020.125031)]
   <br>
