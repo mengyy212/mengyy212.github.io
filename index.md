@@ -84,9 +84,9 @@ layout: homepage
   <br>
   Sustainability, 2022.
   <br>
-  <img src="/assets/img/dynamic-evolution/1.tif" alt="Exploring-1" height=120px>
-  <img src="/assets/img/dynamic-evolution/2.tif" alt="Exploring-2" height=120px>
-  <img src="/assets/img/dynamic-evolution/3.tif" alt="Exploring-3" height=120px>
+  <img src="/assets/img/dynamic-evolution/1.png" alt="Exploring-1" height=120px>
+  <img src="/assets/img/dynamic-evolution/2.png" alt="Exploring-2" height=120px>
+  <img src="/assets/img/dynamic-evolution/3.png" alt="Exploring-3" height=120px>
   
 - **Resilience assessment of urban metro complex network: A case study of Zhengzhou Metro** [[DOI](https://doi.org/10.3390/su141811555)]
   <br>
