@@ -4,7 +4,7 @@ layout: homepage
 
 [中文版](zh)
 
-  Welcome to my homepage!
+  Welcome to my homepage ^_^!
 
 ## About me
 
