@@ -8,7 +8,7 @@ layout: homepage
 
 ## About me
 
-  Hi, my name is Meng Yangyang (孟洋洋). Now I'm a Postdoc in *Institute of Emergency Science Research, Chinese Institute of Coal Science*. Before that, I received my Ph.D. degree in Safety Science and Engineering from *Institute of Public Safety Research, Department of Engineering Physics, Tsinghua University* in June 2021. My doctoral dissertation was on *Dynamic Evolution Mechanism and Resilience Evaluation Method of Urban Metro Network*, which was awarded the *Outstanding Graduate Thesis of Department of Engineering Physics, Tsinghua University*.
+  Hi, my name is Meng Yangyang (孟洋洋). Now I'm a Postdoc in *Institute of Emergency Science Research, Chinese Institute of Coal Science*. Before that, I received my Ph.D. degree in Safety Science and Engineering from *Institute of Public Safety Research, Department of Engineering Physics, Tsinghua University* in June 2021. My doctoral dissertation was on *Dynamic Evolution Mechanism and Resilience Evaluation Method of Urban Metro Network*, which was awarded the outstanding graduate thesis of department of Engineering Physics, Tsinghua University.
 
   My research focuses on the intersection of transportation engineering, safety engineering and resilient management. My work mainly involves the complex topology analysis, resilience/vulnerability assessment, spatio-temporal big data analysis and transportation planning Management in urban rail transit network system.
   
