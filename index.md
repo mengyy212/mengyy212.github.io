@@ -4,6 +4,15 @@ layout: homepage
 
 [中文版](zh)
 
+  Welcome to my homepage!
+
+## About me
+
+  Hi, my name is Meng Yangyang (孟洋洋). Now I'm a Postdoc in *Institute of Emergency Science Research, Chinese Institute of Coal Science*. Before that, I received my Ph.D. degree in Safety Science and Engineering from *Institute of Public Safety Research, Department of Engineering Physics, Tsinghua University* in June 2021. My doctoral dissertation was on *Dynamic Evolution Mechanism and Resilience Evaluation Method of Urban Metro Network*, which was awarded the *Outstanding Graduate Thesis of Department of Engineering Physics, Tsinghua University*.
+
+  My research focuses on the intersection of transportation engineering, safety engineering and resilient management. My work mainly involves the complex topology analysis, resilience/vulnerability assessment, spatio-temporal big data analysis and transportation planning Management in urban rail transit network system.
+  
+
 ## Research Interests
 
 - Urban Rail Transit Network Modeling and Analysis
@@ -30,7 +39,7 @@ layout: homepage
 
 - **Resilience Assessment Technology and Application of Metro Networked-Operation under Extreme Rainstorm Scenarios**
   <br>
-  The Innovation and Entrepreneurship Science and Technology Project of China Coal Technology and Engineering Group (No.2021-JSYF-006), 2021-2023
+  The Innovation and Entrepreneurship Science and Technology Project of Chinese Institute of Coal Science (No.2021-JSYF-006), 2021-2023
 
 ## Research Projects Participated
 
@@ -186,7 +195,7 @@ layout: homepage
   <br>
   Tokyo & Sendai, Japan, Jul 2018.
 
-## Personal Skills
+## Technical Skills
 
 - Python
 - PostgreSQL
@@ -199,8 +208,8 @@ layout: homepage
 - LaTeX
 - ……
 
-## Main Awards
+## Honors and Awards
 
-- Outstanding Graduate Thesis, Department of Engineering Physics, _Tsinghua University_, 2021
+- Outstanding Graduate Thesis of *Department of Engineering Physics, Tsinghua University*, 2021
 - Excellent Comprehensive Scholarship, _Tsinghua University_, 2020
 - Outstanding Graduate, _Beijing Municipal Education Commission_, 2017
