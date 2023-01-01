@@ -4,6 +4,10 @@ layout: homepage_zh
 
 [English Version](/)
 
+欢迎来到我的个人主页 ^_^ ！
+
+## 关于我
+
 ## 研究兴趣
 
 ## 负责项目
