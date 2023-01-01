@@ -20,9 +20,9 @@ layout: homepage_zh
 
 ### 会议文章
 
-## 个人技能
+## 科研技能
 
-## 主要奖项
+## 荣誉奖项
 
 _Page under construction..._
 
