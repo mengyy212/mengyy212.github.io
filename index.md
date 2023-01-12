@@ -106,7 +106,14 @@ layout: homepage
   <img src="/assets/img/resilience-zhenzhou/1.png" alt="Exploring-1" height=120px>
   <img src="/assets/img/resilience-zhenzhou/2.png" alt="Exploring-2" height=120px>
   <img src="/assets/img/resilience-zhenzhou/3.png" alt="Exploring-3" height=120px>
-  
+
+- **Multi-Dimensional evacuation risk evaluation in standard subway station** [[DOI](https://doi.org/10.1016/j.ssci.2021.105392)]
+  <br>
+  •	J.F. Chen, C. Liu, **Y.Y. Meng**, M.H. Zhong*
+  <br>
+  Safety Science, 2021.
+
+
 - **Analyzing spatio-temporal impacts of extreme rainfall events on metro ridership characteristics** [[DOI](https://doi.org/10.1016/j.physa.2021.126053)]
   <br>
   L.F. Zhou, Z.H. Li, **Y.Y. Meng**, Z.J Zhou, M.H. Zhong*
