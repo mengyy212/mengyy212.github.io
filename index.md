@@ -8,9 +8,9 @@ layout: homepage
 
 ## About me
 
-  Hi, my name is Meng Yangyang (孟洋洋). Now I'm a Postdoc in *Department of Civil and Environmental Engineering of The Hong Kong Polytechnic University (PolyU)*. Before that, I received my Ph.D. degree in Safety Science and Engineering from *Institute of Public Safety Research, Department of Engineering Physics, Tsinghua University* in June 2021.
+  Hi, my name is Meng Yangyang (孟洋洋). Now I'm a Postdoc in *Department of Civil and Environmental Engineering of The Hong Kong Polytechnic University (PolyU)*. Before that, I received my Ph.D. in Safety Science and Engineering from *Institute of Public Safety Research, Department of Engineering Physics, Tsinghua University*.
 
-  My research focuses on the intersection of transportation engineering, safety engineering and resilient management. My work mainly involves the complex topology analysis, resilience/vulnerability assessment, spatio-temporal big data analysis and transportation planning management in urban rail transit network system.
+  My research focuses on the intersection of transportation engineering, safety engineering and resilient management. My work mainly involves complex topology analysis, resilience/vulnerability assessment, spatio-temporal big data analysis, and urban transportation system management.
   
 
 ## Research Interests
@@ -27,19 +27,6 @@ layout: homepage
 
 - **[Dec 2022]** TBA. -->
 
-## Funded Research Projects (PI)
-
-- **Cascade Failure Mechanism and Resilience Assessment Method of Metro Network System under Extreme Rainstorm Disaster**
-  <br>
-  China Postdoctoral Science Foundation (No.2022M721449), 2022-2023
-
-- **Risk Warning technology of Heavy Passenger Flow in Metro Transfer Stations with Multi-source Heterogeneous Spatio-temporal Data**
-  <br>
-  The Innovation and Entrepreneurship Science and Technology Project of China Coal Technology and Engineering Group (No.2022-2-QN004), 2022-2024
-
-- **Resilience Assessment Technology and Application of Metro Networked-Operation under Extreme Rainstorm Scenarios**
-  <br>
-  The Innovation and Entrepreneurship Science and Technology Project of Chinese Institute of Coal Science (No.2021-JSYF-006), 2021-2023
 
 ## Research Projects Participated
 
